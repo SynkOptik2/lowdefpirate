@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lowdefpirate",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b86f2e0b-8ffc-483b-8c0f-45b4d6e1301f",
+			"database_name": "lowdefpirate-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
